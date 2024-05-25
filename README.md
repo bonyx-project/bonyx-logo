@@ -1,4 +1,4 @@
-Monero Logo Artefacts
+# Bonyx Logo
 
 This is a collection of the original Bonyx logo files. 
 
