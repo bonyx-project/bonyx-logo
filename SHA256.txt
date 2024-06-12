@@ -1,8 +1,5 @@
 Official Bonyx logo SHA256 hashes:
 
-SHA256 hash of bonyx-logo-inkscape.svg:
-628019aeff75e4851d645ff34185e696312d871bfde307abfdb9ff6bf550da4b
-
 SHA256 hash of bonyx-logo.jpg:
 d7351344a7b22fd422607981f0db14133ec682afbe3746a9ffe4e31079e42ec5
 
@@ -11,9 +8,6 @@ ef22dc871697213c58ac54f6b59e7683f6ed38538f6695526978bef8196bae81
 
 SHA256 hash of bonyx-logo.png:
 79a44f92c2a93bf442f305985997a98bb3a80745b833883f0d586ae32d5a587d
-
-SHA256 hash of bonyx-logo.svg:
-410c41b9b225ac1faebe647ad5e60fb38374e3935cd1e3b53d7aac3ba0d1d591
 
 SHA256 hash of bonyx-logo.tiff:
 92cdf61bfd3b47d0d6c7b19d61652503d5b00d06606632990397145eac143ac2
