@@ -1,4 +1,4 @@
-# Bonyx Logo
+# Bonyx logo
 
 This is a collection of the original Bonyx logo files. 
 
