@@ -2,7 +2,7 @@
 
 This is a collection of the original Bonyx logo files. 
 
-Hi-res or vector source images.
+Multiple logo image formats. Resolution 200px x 200px.
 
 
 # License
